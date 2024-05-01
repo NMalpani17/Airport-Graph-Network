@@ -1,0 +1,124 @@
+source,destination,distance
+Columbus,Milwaukee,136
+Columbus,San Antonio,248
+Columbus,Baltimore,94
+Columbus,Minneapolis,472
+Columbus,Salt Lake City,62
+Columbus,Los Angeles,380
+Columbus,Las Vegas,462
+Columbus,Dallas,349
+Columbus,Pittsburgh,80
+Milwaukee,Kansas City,416
+Milwaukee,San Antonio,149
+Milwaukee,Nashville,195
+Milwaukee,Cincinnati,411
+Milwaukee,Miami,211
+Milwaukee,Minneapolis,480
+Milwaukee,Portland,490
+Milwaukee,St. Louis,471
+Kansas City,Seattle,224
+Kansas City,San Antonio,360
+Kansas City,Nashville,120
+Kansas City,Austin,213
+Kansas City,Orlando,88
+Kansas City,Los Angeles,351
+Kansas City,Portland,176
+Kansas City,St. Louis,82
+Kansas City,Dallas,286
+Sacramento,San Antonio,126
+Sacramento,Austin,240
+Sacramento,Miami,439
+Sacramento,Atlanta,304
+Sacramento,Los Angeles,90
+Sacramento,Jacksonville,324
+Sacramento,Dallas,308
+Sacramento,Pittsburgh,171
+Seattle,San Antonio,153
+Seattle,Cincinnati,227
+Seattle,Austin,151
+Seattle,Miami,125
+Seattle,Baltimore,267
+Seattle,Minneapolis,403
+Seattle,Atlanta,134
+Seattle,Phoenix,284
+Seattle,Salt Lake City,245
+Seattle,Los Angeles,256
+Seattle,Philadelphia,169
+Seattle,Las Vegas,182
+Seattle,Dallas,230
+Raleigh,Austin,70
+Raleigh,Miami,211
+Raleigh,Baltimore,443
+Raleigh,Salt Lake City,135
+Raleigh,Las Vegas,167
+San Antonio,Nashville,364
+San Antonio,Cincinnati,188
+San Antonio,Austin,312
+San Antonio,Miami,210
+San Antonio,Minneapolis,256
+San Antonio,Orlando,79
+San Antonio,Phoenix,418
+San Antonio,Salt Lake City,154
+San Antonio,Philadelphia,116
+San Antonio,Portland,225
+Nashville,Cincinnati,359
+Nashville,Austin,253
+Nashville,Baltimore,356
+Nashville,Atlanta,228
+Nashville,Philadelphia,184
+Nashville,Las Vegas,191
+Nashville,Jacksonville,53
+Nashville,Portland,176
+Nashville,St. Louis,126
+Nashville,Dallas,208
+Cincinnati,Baltimore,495
+Cincinnati,Phoenix,205
+Cincinnati,Los Angeles,477
+Cincinnati,Las Vegas,215
+Cincinnati,Pittsburgh,294
+Austin,Baltimore,308
+Austin,Minneapolis,271
+Austin,Salt Lake City,456
+Austin,Los Angeles,169
+Miami,Baltimore,55
+Miami,Minneapolis,355
+Miami,Phoenix,117
+Miami,Los Angeles,151
+Miami,Philadelphia,350
+Miami,Jacksonville,347
+Miami,Portland,220
+Miami,St. Louis,125
+Miami,Dallas,126
+Baltimore,Orlando,134
+Baltimore,Phoenix,464
+Baltimore,Los Angeles,401
+Baltimore,Philadelphia,190
+Baltimore,St. Louis,267
+Baltimore,Dallas,180
+Minneapolis,Phoenix,308
+Minneapolis,Los Angeles,410
+Minneapolis,Las Vegas,457
+Minneapolis,Dallas,66
+Atlanta,Salt Lake City,168
+Atlanta,Las Vegas,388
+Orlando,Philadelphia,366
+Orlando,Las Vegas,74
+Orlando,Jacksonville,412
+Phoenix,Salt Lake City,458
+Phoenix,Las Vegas,105
+Phoenix,Portland,500
+Phoenix,St. Louis,486
+Phoenix,Dallas,108
+Phoenix,Pittsburgh,87
+Salt Lake City,Las Vegas,171
+Los Angeles,St. Louis,74
+Los Angeles,Pittsburgh,126
+Philadelphia,Las Vegas,292
+Philadelphia,Pittsburgh,332
+Las Vegas,Jacksonville,345
+Las Vegas,Pittsburgh,240
+Jacksonville,Portland,68
+Jacksonville,St. Louis,474
+St. Louis,Dallas,425
+St. Louis,Pittsburgh,346
+Dallas,Pittsburgh,292
